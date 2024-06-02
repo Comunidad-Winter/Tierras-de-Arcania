@@ -1,0 +1,908 @@
+1 - Aldeano
+2 - Gallo
+3 - Cerdo
+4 - Vaca
+5 - Sacerdote
+6 - Guardia Imperial
+7 - Herrero
+8 - Thorkis
+9 - Ralph
+10 - Bardo
+11 - Aldeana
+12 - Sastre
+13 - Gobernador
+14 - Lilith
+15 - Thorkis
+16 - Centinela
+17 - Conejo
+18 - Pavo Real
+19 - Sastre
+20 - Sastre
+21 - Sastre
+22 - Sastre
+23 - Sastre
+24 - Banquero
+25 - Sastre
+26 - Sastre
+27 - Sastre
+28 - Sastre
+29 - Sastre
+30 - Sastre
+31 - Sastre
+32 - Sastre
+33 - Leñador
+34 - Cullighan
+35 - Moraday
+36 - Astor
+37 - Herrero
+38 - Herrero
+39 - Sastre
+40 - Tolloz
+41 - Pescador
+42 - Antogne
+43 - Sorks
+44 - Carpintero
+45 - Espíritu
+46 - Mago
+47 - Mago
+48 - Minero
+49 - Guardia Imperial
+50 - Tellez
+51 - Mago
+52 - Rantarisk
+53 - Roksar
+54 - Armaduras
+55 - Herrero
+56 - Herrero
+57 - Bhoemond
+58 - Pescador
+59 - Mago
+60 - O'Riley de Banderbill
+61 - Mago
+62 - Guldorf
+63 - Steve
+64 - kurlas
+65 - Gallo
+66 - Cerdo
+67 - Vaca
+68 - Odkon
+69 - Mago
+70 - Armaduras
+71 - Herrero
+72 - Tancredo de Hauteville, soberano de Banderbill
+73 - Armaduras
+74 - Armaduras
+75 - Cuervo
+76 - Hormiga
+77 - Rata
+78 - Oso Pardo Domesticado
+79 - Tortuga de Mar
+80 - Mercader
+81 - Sacerdote Imperial
+82 - Sacerdote Imperial
+83 - Druida Imperial
+84 - Druida Imperial
+85 - Druida Imperial
+86 - Mago Imperial
+87 - Mago Imperial
+88 - Ely
+89 - Fuego Fatuo
+90 - Morgolock's Soul
+91 - Gran Águila
+92 - Elemental de Agua
+93 - Elemental de Fuego
+94 - Elemental de Tierra
+95 - Jabalí
+96 - Tigre de Bengala
+97 - Pato
+98 - Demonio Legionario
+99 - Mago
+100 - Guardia Imperial
+101 - Vendedor de propiedades.
+102 - Guardia Imperial
+103 - Carahuel
+104 - Timbero
+105 - Mago del Caos
+106 - Arquera Real
+107 - Golem Oscuro
+108 - O'Riley de Arkhein
+109 - Sastre
+110 - Sastre
+111 - Armaduras
+112 - Herrero
+113 - Armaduras
+114 - SR
+115 - SC
+116 - Armaduras
+117 - Sastre
+118 - Alarnick, antiguo soberano de Banderbill
+119 - Sacerdote
+120 - Ireth
+121 - Isaac
+122 - Nelvi
+123 - Aile
+124 - Varinya
+125 - Torke
+126 - Gourk
+127 - Guardia Infernal
+128 - Nelmasil
+129 - Gael Azrraed
+130 - Altair de Oteren
+131 - Linderoth
+132 -  Sebastien
+133 - Anthares
+134 - Vuragon
+135 - Belial
+136 - Efral
+137 - Manrique
+138 - Abel, el monje pensador
+139 - Clipsa
+140 - Astor
+141 - Zairot
+142 - Onkin
+143 - Fethresor
+144 - Whyx
+145 - Iklot
+146 - Unurbar Gorog
+147 - Dugh Dhail
+148 - Guardia Imperial
+149 - Guardia Infernal
+150 - Gobernador
+151 - Gobernador
+152 - Gobernador
+153 - Gobernador
+154 - Lilith
+155 - Armaduras Newbie
+156 - Armas Newbie
+157 - Magia Newbie
+158 - Gran hielo
+159 - Gran fuego
+160 - Gran rojo
+161 - Gran tierra
+162 - Gran viento
+163 - Gran polar
+164 -  Mostro de barro
+165 - Guardian de la llama
+166 - Oso Polor
+167 - Amon Ra
+168 - Guardian Egipcio
+169 - Lobo polar
+170 - Nerduck
+171 - Engendro del demonio
+172 - Troll polar
+173 - (Libre NPC173)
+174 - (Libre NPC174)
+175 - (Libre NPC175)
+176 - (Libre NPC176)
+177 - (Libre NPC177)
+178 - (Libre NPC178)
+179 - (Libre NPC179)
+180 - (Libre NPC180)
+181 - (Libre NPC181)
+182 - (Libre NPC182)
+183 - (Libre NPC183)
+184 - (Libre NPC184)
+185 - (Libre NPC185)
+186 - (Libre NPC186)
+187 - (Libre NPC187)
+188 - (Libre NPC188)
+189 - (Libre NPC189)
+190 - (Libre NPC190)
+191 - (Libre NPC191)
+192 - (Libre NPC192)
+193 - (Libre NPC193)
+194 - (Libre NPC194)
+195 - (Libre NPC195)
+196 - (Libre NPC196)
+197 - (Libre NPC197)
+198 - (Libre NPC198)
+199 - (Libre NPC199)
+200 - (Libre NPC200)
+201 - (Libre NPC201)
+202 - (Libre NPC202)
+203 - (Libre NPC203)
+204 - (Libre NPC204)
+205 - (Libre NPC205)
+206 - (Libre NPC206)
+207 - (Libre NPC207)
+208 - (Libre NPC208)
+209 - (Libre NPC209)
+210 - (Libre NPC210)
+211 - (Libre NPC211)
+212 - (Libre NPC212)
+213 - (Libre NPC213)
+214 - (Libre NPC214)
+215 - (Libre NPC215)
+216 - (Libre NPC216)
+217 - (Libre NPC217)
+218 - (Libre NPC218)
+219 - (Libre NPC219)
+220 - (Libre NPC220)
+221 - (Libre NPC221)
+222 - (Libre NPC222)
+223 - (Libre NPC223)
+224 - (Libre NPC224)
+225 - (Libre NPC225)
+226 - (Libre NPC226)
+227 - (Libre NPC227)
+228 - (Libre NPC228)
+229 - (Libre NPC229)
+230 - (Libre NPC230)
+231 - (Libre NPC231)
+232 - (Libre NPC232)
+233 - (Libre NPC233)
+234 - (Libre NPC234)
+235 - (Libre NPC235)
+236 - (Libre NPC236)
+237 - (Libre NPC237)
+238 - (Libre NPC238)
+239 - (Libre NPC239)
+240 - (Libre NPC240)
+241 - (Libre NPC241)
+242 - (Libre NPC242)
+243 - (Libre NPC243)
+244 - (Libre NPC244)
+245 - (Libre NPC245)
+246 - (Libre NPC246)
+247 - (Libre NPC247)
+248 - (Libre NPC248)
+249 - (Libre NPC249)
+250 - (Libre NPC250)
+251 - (Libre NPC251)
+252 - (Libre NPC252)
+253 - (Libre NPC253)
+254 - (Libre NPC254)
+255 - (Libre NPC255)
+256 - (Libre NPC256)
+257 - (Libre NPC257)
+258 - (Libre NPC258)
+259 - (Libre NPC259)
+260 - (Libre NPC260)
+261 - (Libre NPC261)
+262 - (Libre NPC262)
+263 - (Libre NPC263)
+264 - (Libre NPC264)
+265 - (Libre NPC265)
+266 - (Libre NPC266)
+267 - (Libre NPC267)
+268 - (Libre NPC268)
+269 - (Libre NPC269)
+270 - (Libre NPC270)
+271 - (Libre NPC271)
+272 - (Libre NPC272)
+273 - (Libre NPC273)
+274 - (Libre NPC274)
+275 - (Libre NPC275)
+276 - (Libre NPC276)
+277 - (Libre NPC277)
+278 - (Libre NPC278)
+279 - (Libre NPC279)
+280 - (Libre NPC280)
+281 - (Libre NPC281)
+282 - (Libre NPC282)
+283 - (Libre NPC283)
+284 - (Libre NPC284)
+285 - (Libre NPC285)
+286 - (Libre NPC286)
+287 - (Libre NPC287)
+288 - (Libre NPC288)
+289 - (Libre NPC289)
+290 - (Libre NPC290)
+291 - (Libre NPC291)
+292 - (Libre NPC292)
+293 - (Libre NPC293)
+294 - (Libre NPC294)
+295 - (Libre NPC295)
+296 - (Libre NPC296)
+297 - (Libre NPC297)
+298 - (Libre NPC298)
+299 - (Libre NPC299)
+300 - (Libre NPC300)
+301 - (Libre NPC301)
+302 - (Libre NPC302)
+303 - (Libre NPC303)
+304 - (Libre NPC304)
+305 - (Libre NPC305)
+306 - (Libre NPC306)
+307 - (Libre NPC307)
+308 - (Libre NPC308)
+309 - (Libre NPC309)
+310 - (Libre NPC310)
+311 - (Libre NPC311)
+312 - (Libre NPC312)
+313 - (Libre NPC313)
+314 - (Libre NPC314)
+315 - (Libre NPC315)
+316 - (Libre NPC316)
+317 - (Libre NPC317)
+318 - (Libre NPC318)
+319 - (Libre NPC319)
+320 - (Libre NPC320)
+321 - (Libre NPC321)
+322 - (Libre NPC322)
+323 - (Libre NPC323)
+324 - (Libre NPC324)
+325 - (Libre NPC325)
+326 - (Libre NPC326)
+327 - (Libre NPC327)
+328 - (Libre NPC328)
+329 - (Libre NPC329)
+330 - (Libre NPC330)
+331 - (Libre NPC331)
+332 - (Libre NPC332)
+333 - (Libre NPC333)
+334 - (Libre NPC334)
+335 - (Libre NPC335)
+336 - (Libre NPC336)
+337 - (Libre NPC337)
+338 - (Libre NPC338)
+339 - (Libre NPC339)
+340 - (Libre NPC340)
+341 - (Libre NPC341)
+342 - (Libre NPC342)
+343 - (Libre NPC343)
+344 - (Libre NPC344)
+345 - (Libre NPC345)
+346 - (Libre NPC346)
+347 - (Libre NPC347)
+348 - (Libre NPC348)
+349 - (Libre NPC349)
+350 - (Libre NPC350)
+351 - (Libre NPC351)
+352 - (Libre NPC352)
+353 - (Libre NPC353)
+354 - (Libre NPC354)
+355 - (Libre NPC355)
+356 - (Libre NPC356)
+357 - (Libre NPC357)
+358 - (Libre NPC358)
+359 - (Libre NPC359)
+360 - (Libre NPC360)
+361 - (Libre NPC361)
+362 - (Libre NPC362)
+363 - (Libre NPC363)
+364 - (Libre NPC364)
+365 - (Libre NPC365)
+366 - (Libre NPC366)
+367 - (Libre NPC367)
+368 - (Libre NPC368)
+369 - (Libre NPC369)
+370 - (Libre NPC370)
+371 - (Libre NPC371)
+372 - (Libre NPC372)
+373 - (Libre NPC373)
+374 - (Libre NPC374)
+375 - (Libre NPC375)
+376 - (Libre NPC376)
+377 - (Libre NPC377)
+378 - (Libre NPC378)
+379 - (Libre NPC379)
+380 - (Libre NPC380)
+381 - (Libre NPC381)
+382 - (Libre NPC382)
+383 - (Libre NPC383)
+384 - (Libre NPC384)
+385 - (Libre NPC385)
+386 - (Libre NPC386)
+387 - (Libre NPC387)
+388 - (Libre NPC388)
+389 - (Libre NPC389)
+390 - (Libre NPC390)
+391 - (Libre NPC391)
+392 - (Libre NPC392)
+393 - (Libre NPC393)
+394 - (Libre NPC394)
+395 - (Libre NPC395)
+396 - (Libre NPC396)
+397 - (Libre NPC397)
+398 - (Libre NPC398)
+399 - (Libre NPC399)
+400 - (Libre NPC400)
+401 - (Libre NPC401)
+402 - (Libre NPC402)
+403 - (Libre NPC403)
+404 - (Libre NPC404)
+405 - (Libre NPC405)
+406 - (Libre NPC406)
+407 - (Libre NPC407)
+408 - (Libre NPC408)
+409 - (Libre NPC409)
+410 - (Libre NPC410)
+411 - (Libre NPC411)
+412 - (Libre NPC412)
+413 - (Libre NPC413)
+414 - (Libre NPC414)
+415 - (Libre NPC415)
+416 - (Libre NPC416)
+417 - (Libre NPC417)
+418 - (Libre NPC418)
+419 - (Libre NPC419)
+420 - (Libre NPC420)
+421 - (Libre NPC421)
+422 - (Libre NPC422)
+423 - (Libre NPC423)
+424 - (Libre NPC424)
+425 - (Libre NPC425)
+426 - (Libre NPC426)
+427 - (Libre NPC427)
+428 - (Libre NPC428)
+429 - (Libre NPC429)
+430 - (Libre NPC430)
+431 - (Libre NPC431)
+432 - (Libre NPC432)
+433 - (Libre NPC433)
+434 - (Libre NPC434)
+435 - (Libre NPC435)
+436 - (Libre NPC436)
+437 - (Libre NPC437)
+438 - (Libre NPC438)
+439 - (Libre NPC439)
+440 - (Libre NPC440)
+441 - (Libre NPC441)
+442 - (Libre NPC442)
+443 - (Libre NPC443)
+444 - (Libre NPC444)
+445 - (Libre NPC445)
+446 - (Libre NPC446)
+447 - (Libre NPC447)
+448 - (Libre NPC448)
+449 - (Libre NPC449)
+450 - (Libre NPC450)
+451 - (Libre NPC451)
+452 - (Libre NPC452)
+453 - (Libre NPC453)
+454 - (Libre NPC454)
+455 - (Libre NPC455)
+456 - (Libre NPC456)
+457 - (Libre NPC457)
+458 - (Libre NPC458)
+459 - (Libre NPC459)
+460 - (Libre NPC460)
+461 - (Libre NPC461)
+462 - (Libre NPC462)
+463 - (Libre NPC463)
+464 - (Libre NPC464)
+465 - (Libre NPC465)
+466 - (Libre NPC466)
+467 - (Libre NPC467)
+468 - (Libre NPC468)
+469 - (Libre NPC469)
+470 - (Libre NPC470)
+471 - (Libre NPC471)
+472 - (Libre NPC472)
+473 - (Libre NPC473)
+474 - (Libre NPC474)
+475 - (Libre NPC475)
+476 - (Libre NPC476)
+477 - (Libre NPC477)
+478 - (Libre NPC478)
+479 - (Libre NPC479)
+480 - (Libre NPC480)
+481 - (Libre NPC481)
+482 - (Libre NPC482)
+483 - (Libre NPC483)
+484 - (Libre NPC484)
+485 - (Libre NPC485)
+486 - (Libre NPC486)
+487 - (Libre NPC487)
+488 - (Libre NPC488)
+489 - (Libre NPC489)
+490 - (Libre NPC490)
+491 - (Libre NPC491)
+492 - (Libre NPC492)
+493 - (Libre NPC493)
+494 - (Libre NPC494)
+495 - (Libre NPC495)
+496 - (Libre NPC496)
+497 - (Libre NPC497)
+498 - (Libre NPC498)
+499 - (Libre NPC499)
+500 - Murciélago
+501 - Lobo
+502 - Zombie
+503 - Esqueleto
+504 - Serpiente
+505 - Goblin
+506 - Gallo Salvaje
+507 - Lord Zombie
+508 - Esqueleto Guerrero
+509 - Dragón Rojo
+510 - Araña Gigante
+511 - Ogro Esclavo
+512 - Lobo
+513 - Cíclope Guardián
+514 - Serpiente de Anthares
+515 - Gorila Salvaje
+516 - Goblin
+517 - Djinn de Viento
+518 - Dragón de las Profundidades
+519 - Gusano de Arena
+520 - Esqueleto Guerrero
+521 - Tigre Salvaje
+522 - Orco
+523 - Orco
+524 - Jefe Orco
+525 - Águila
+526 - Araña Malaheing
+527 - Dragón Rojo
+528 - Anfisbena
+529 - Escorpión
+530 - Bandido
+531 - Asesino
+532 - Osezno
+533 - Cuervo Salvaje
+534 - Hormiga Gigante
+535 - Hormiga Marabunta
+536 - Rata Salvaje
+537 - Beholder
+538 - Oso Pardo
+539 - Tortuga Gigante
+540 - Duende
+541 - Ogro
+542 - Gran Arena
+543 - Demonio
+544 - Unicornio
+545 - Licántropo
+546 - Zombie
+547 - Tarántula
+548 - Leviathan
+549 - Orco Brujo
+550 - Bruja
+551 - Mago Malvado
+552 - Golem
+553 - Medusa
+554 - Liche
+555 - Lord Orco
+556 - Quark
+557 - Jabalí Salvaje
+558 - Dark mOrGoLoCk
+559 - Dark NuKeR
+560 - Dark Valkira
+561 - Dark Chatillon
+562 - Dark Jennifer
+563 - (Libre NPC563)
+564 - Escorpión
+565 - Serpiente
+566 - Murciélago
+567 - Duende Mágico
+568 - Galeón Pirata
+569 - Galeón Fantasmal
+570 - (Libre NPC570)
+571 - (Libre NPC571)
+572 - (Libre NPC572)
+573 - Árbol Encantado
+574 - Ucorno
+575 - Árbol de Jungla
+576 - Árbol de Jungla
+577 - Alma Putrefacta
+578 - Cerdo Salvaje
+579 - Vaca Salvaje
+580 - (Libre NPC580)
+581 - (Libre NPC581)
+582 - Enano de las Profundidades
+583 - Liche Infernal
+584 - Demonio Infernal
+585 - Dragón Rojo Infernal
+586 - Golem Infernal
+587 - Astaroth
+588 - Elemental de Fuego
+589 - Elemental de Fuego Anciano
+590 - Blattodea
+591 - Artopleura
+592 - Araña de los Rincones
+593 - Pirata
+594 - Escarabajo Gigante
+595 - Tentáculo Putrefacto
+596 - Espíritu chocarrero
+597 - Protector de los muertos
+598 - Hada Oscura
+599 - Engendro de las profundidades
+600 - Ave de las profundidades
+601 - Licántropo
+602 - Piraña
+603 - Sirena
+604 - Manta raya
+605 - Lutra
+606 - Tiburón
+607 - Capitán Pirata
+608 - Guardián de las Profundidades
+609 - Elemental de Agua Anciano
+610 - Kraken
+611 - Fango
+612 - Cocodrilo
+613 - Unicornio
+614 - Elfo Guardián
+615 - Árbol capturador de Almas
+616 - Sapo
+617 - Pequeño Escarabajo
+618 - Pequeño Duende
+619 - Hada del Bosque
+620 - Pequeña Araña
+621 - Piraña
+622 - Pequeño Dragón Mágico
+623 - Mini Elemental de Fuego
+624 - Pequeño Dragón Rojo
+625 - Víbora
+626 - Goblin Travieso
+627 - Protector de almas
+628 - Tarántula venenosa
+629 - Guerrero tutor I
+630 - Guerrero tutor II
+631 -  Cazador tutor I
+632 -  Cazador tutor II
+633 -  Pirata tutor I
+634 -  Pirata tutor II
+635 -  Bandido tutor I
+636 -  Bandido tutor II
+637 -  Ladron tutor I
+638 -  Ladron tutor II
+639 -  Mago tutor I
+640 -  Mago tutor II
+641 - Bardo Tutor I
+642 - Bardo Tutor II
+643 - Clérigo Tutor I
+644 - Clérigo Tutor II
+645 - Druida Tutor I
+646 - Druida Tutor II
+647 - Paladín Tutor I
+648 - Paladín Tutor II
+649 - Asesino Tutor I
+650 - Asesino Tutor II
+651 - Herrero Tutor
+652 - Minero Tutor
+653 - Carpintero Tutor
+654 - Leñador Tutor
+655 - Pescador Tutor
+656 - Trabajador Tutor I
+657 - Trabajador Tutor II
+658 - (Libre NPC658)
+659 - (Libre NPC659)
+660 - (Libre NPC660)
+661 - (Libre NPC661)
+662 - (Libre NPC662)
+663 - (Libre NPC663)
+664 - (Libre NPC664)
+665 - (Libre NPC665)
+666 - (Libre NPC666)
+667 - (Libre NPC667)
+668 - (Libre NPC668)
+669 - (Libre NPC669)
+670 - (Libre NPC670)
+671 - (Libre NPC671)
+672 - (Libre NPC672)
+673 - (Libre NPC673)
+674 - (Libre NPC674)
+675 - (Libre NPC675)
+676 - (Libre NPC676)
+677 - (Libre NPC677)
+678 - (Libre NPC678)
+679 - (Libre NPC679)
+680 - (Libre NPC680)
+681 - (Libre NPC681)
+682 - (Libre NPC682)
+683 - (Libre NPC683)
+684 - (Libre NPC684)
+685 - (Libre NPC685)
+686 - (Libre NPC686)
+687 - (Libre NPC687)
+688 - (Libre NPC688)
+689 - (Libre NPC689)
+690 - (Libre NPC690)
+691 - (Libre NPC691)
+692 - (Libre NPC692)
+693 - (Libre NPC693)
+694 - (Libre NPC694)
+695 - (Libre NPC695)
+696 - (Libre NPC696)
+697 - (Libre NPC697)
+698 - (Libre NPC698)
+699 - (Libre NPC699)
+700 - (Libre NPC700)
+701 - (Libre NPC701)
+702 - (Libre NPC702)
+703 - (Libre NPC703)
+704 - (Libre NPC704)
+705 - (Libre NPC705)
+706 - (Libre NPC706)
+707 - (Libre NPC707)
+708 - (Libre NPC708)
+709 - (Libre NPC709)
+710 - (Libre NPC710)
+711 - (Libre NPC711)
+712 - (Libre NPC712)
+713 - (Libre NPC713)
+714 - (Libre NPC714)
+715 - (Libre NPC715)
+716 - (Libre NPC716)
+717 - (Libre NPC717)
+718 - (Libre NPC718)
+719 - (Libre NPC719)
+720 - (Libre NPC720)
+721 - (Libre NPC721)
+722 - (Libre NPC722)
+723 - (Libre NPC723)
+724 - (Libre NPC724)
+725 - (Libre NPC725)
+726 - (Libre NPC726)
+727 - (Libre NPC727)
+728 - (Libre NPC728)
+729 - (Libre NPC729)
+730 - (Libre NPC730)
+731 - (Libre NPC731)
+732 - (Libre NPC732)
+733 - (Libre NPC733)
+734 - (Libre NPC734)
+735 - (Libre NPC735)
+736 - (Libre NPC736)
+737 - (Libre NPC737)
+738 - (Libre NPC738)
+739 - (Libre NPC739)
+740 - (Libre NPC740)
+741 - (Libre NPC741)
+742 - (Libre NPC742)
+743 - (Libre NPC743)
+744 - (Libre NPC744)
+745 - (Libre NPC745)
+746 - (Libre NPC746)
+747 - (Libre NPC747)
+748 - (Libre NPC748)
+749 - (Libre NPC749)
+750 - (Libre NPC750)
+751 - (Libre NPC751)
+752 - (Libre NPC752)
+753 - (Libre NPC753)
+754 - (Libre NPC754)
+755 - (Libre NPC755)
+756 - (Libre NPC756)
+757 - (Libre NPC757)
+758 - (Libre NPC758)
+759 - (Libre NPC759)
+760 - (Libre NPC760)
+761 - (Libre NPC761)
+762 - (Libre NPC762)
+763 - (Libre NPC763)
+764 - (Libre NPC764)
+765 - (Libre NPC765)
+766 - (Libre NPC766)
+767 - (Libre NPC767)
+768 - (Libre NPC768)
+769 - (Libre NPC769)
+770 - (Libre NPC770)
+771 - (Libre NPC771)
+772 - (Libre NPC772)
+773 - (Libre NPC773)
+774 - (Libre NPC774)
+775 - (Libre NPC775)
+776 - (Libre NPC776)
+777 - (Libre NPC777)
+778 - (Libre NPC778)
+779 - (Libre NPC779)
+780 - (Libre NPC780)
+781 - (Libre NPC781)
+782 - (Libre NPC782)
+783 - (Libre NPC783)
+784 - (Libre NPC784)
+785 - (Libre NPC785)
+786 - (Libre NPC786)
+787 - (Libre NPC787)
+788 - (Libre NPC788)
+789 - (Libre NPC789)
+790 - (Libre NPC790)
+791 - (Libre NPC791)
+792 - (Libre NPC792)
+793 - (Libre NPC793)
+794 - (Libre NPC794)
+795 - (Libre NPC795)
+796 - (Libre NPC796)
+797 - (Libre NPC797)
+798 - (Libre NPC798)
+799 - (Libre NPC799)
+800 - (Libre NPC800)
+801 - (Libre NPC801)
+802 - (Libre NPC802)
+803 - (Libre NPC803)
+804 - (Libre NPC804)
+805 - (Libre NPC805)
+806 - (Libre NPC806)
+807 - (Libre NPC807)
+808 - (Libre NPC808)
+809 - (Libre NPC809)
+810 - (Libre NPC810)
+811 - (Libre NPC811)
+812 - (Libre NPC812)
+813 - (Libre NPC813)
+814 - (Libre NPC814)
+815 - (Libre NPC815)
+816 - (Libre NPC816)
+817 - (Libre NPC817)
+818 - (Libre NPC818)
+819 - (Libre NPC819)
+820 - (Libre NPC820)
+821 - (Libre NPC821)
+822 - (Libre NPC822)
+823 - (Libre NPC823)
+824 - (Libre NPC824)
+825 - (Libre NPC825)
+826 - (Libre NPC826)
+827 - (Libre NPC827)
+828 - (Libre NPC828)
+829 - (Libre NPC829)
+830 - (Libre NPC830)
+831 - (Libre NPC831)
+832 - (Libre NPC832)
+833 - (Libre NPC833)
+834 - (Libre NPC834)
+835 - (Libre NPC835)
+836 - (Libre NPC836)
+837 - (Libre NPC837)
+838 - (Libre NPC838)
+839 - (Libre NPC839)
+840 - (Libre NPC840)
+841 - (Libre NPC841)
+842 - (Libre NPC842)
+843 - (Libre NPC843)
+844 - (Libre NPC844)
+845 - (Libre NPC845)
+846 - (Libre NPC846)
+847 - (Libre NPC847)
+848 - (Libre NPC848)
+849 - (Libre NPC849)
+850 - (Libre NPC850)
+851 - (Libre NPC851)
+852 - (Libre NPC852)
+853 - (Libre NPC853)
+854 - (Libre NPC854)
+855 - (Libre NPC855)
+856 - (Libre NPC856)
+857 - (Libre NPC857)
+858 - (Libre NPC858)
+859 - (Libre NPC859)
+860 - (Libre NPC860)
+861 - (Libre NPC861)
+862 - (Libre NPC862)
+863 - (Libre NPC863)
+864 - (Libre NPC864)
+865 - (Libre NPC865)
+866 - (Libre NPC866)
+867 - (Libre NPC867)
+868 - (Libre NPC868)
+869 - (Libre NPC869)
+870 - (Libre NPC870)
+871 - (Libre NPC871)
+872 - (Libre NPC872)
+873 - (Libre NPC873)
+874 - (Libre NPC874)
+875 - (Libre NPC875)
+876 - (Libre NPC876)
+877 - (Libre NPC877)
+878 - (Libre NPC878)
+879 - (Libre NPC879)
+880 - (Libre NPC880)
+881 - (Libre NPC881)
+882 - (Libre NPC882)
+883 - (Libre NPC883)
+884 - (Libre NPC884)
+885 - (Libre NPC885)
+886 - (Libre NPC886)
+887 - (Libre NPC887)
+888 - (Libre NPC888)
+889 - (Libre NPC889)
+890 - (Libre NPC890)
+891 - (Libre NPC891)
+892 - (Libre NPC892)
+893 - (Libre NPC893)
+894 - (Libre NPC894)
+895 - (Libre NPC895)
+896 - (Libre NPC896)
+897 - (Libre NPC897)
+898 - (Libre NPC898)
+899 - (Libre NPC899)
+900 - Sacerdote Pretoriano
+901 - Guerrero Pretoriano
+902 - Mago Pretoriano
+903 - Cazador Pretoriano
+904 - Rey Pretoriano
+905 - Bardo Pretoriano
+906 - Sacerdote Pretoriano
+907 - (Libre NPC907)
+

@@ -1,0 +1,22 @@
+[MAPA10]
+Name=Nuevo Mapa
+MusicNum=0
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+Terreno=BOSQUE
+Zona=CIUDAD
+Restringir=No
+BackUp= 0
+Pk=0
+[MAPA52]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=1
+Name=carcel
+Terreno=BOSQUE
+Zona=CIUDAD

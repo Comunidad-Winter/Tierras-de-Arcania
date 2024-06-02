@@ -1,0 +1,17 @@
+[MAPA267]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MAPA45]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+Name=dungeon tierra
+Terreno=BOSQUE
+Zona=DUNGEON

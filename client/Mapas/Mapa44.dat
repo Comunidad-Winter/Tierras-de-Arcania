@@ -1,0 +1,24 @@
+[DUNGEON TIERRA]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MAPA281]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+[MAPA44]
+MagiaSinefecto=0
+InviSinEfecto=0
+ResuSinEfecto=0
+NoEncriptarMP=0
+BackUp= 0
+Pk=0
+Name=dungeon viento
+Terreno=BOSQUE
+Zona=DUNGEON
